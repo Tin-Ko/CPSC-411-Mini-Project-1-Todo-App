@@ -11,6 +11,8 @@ The Application provides a straightforward interface for managing a list of task
   - Any task can be removed from the list
 - **Data persistence**
   - The list of todo items is saved and will be restored even when the application is closed or if the screen is rotated.
+![image](https://github.com/user-attachments/assets/ea7e71a5-d31c-43ed-9f9b-3fe53b0bc789)
+
 
 ## Concepts Used
 - **Data Class**
